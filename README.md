@@ -6,7 +6,7 @@
 - Learning to use [scverse's](https://github.com/scverse) scanpy and anndata libs
 - Reading "The Soul of The Apostolate" and "Hands-on Machine Learning O'Reilly Edition 3"
 - Experienced with Python, SQL and C/C++
-- Some experience with Java, JavaScript, HTML, CSS, VHDL, Assembly coding, and some web dev tools like React, Node, Django
+- Some experience with Java, JavaScript, HTML, CSS, VHDL, Assembly coding, Terraform, AWS, and some web dev tools like React, Node, Django
   
 <!--
 **victorlga/victorlga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
