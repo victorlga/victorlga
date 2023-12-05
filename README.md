@@ -1,9 +1,10 @@
-## Hi there 👋
+![](cool_gene_wallpaper.png)
 
 ### My current status:
 - Working on an automated method based on machine learning models to annotate cells on single-cell RNA sequence analysis
 - Volunteer at [CSBiology Lab](https://www.csbiology.org/)
 - Learning to use [scverse's](https://github.com/scverse) scanpy and anndata libs
+- Interested in machine learning, computational biology, and martial arts
 - Reading "The Soul of The Apostolate" and "Hands-on Machine Learning O'Reilly Edition 3"
 - Experienced with Python, SQL and C/C++
 - Some experience with Java, JavaScript, HTML, CSS, VHDL, Assembly coding, Terraform, AWS, and some web dev tools like React, Node, Django
