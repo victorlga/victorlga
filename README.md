@@ -1,3 +1,8 @@
+Computer Engineering undergraduate student at Insper - Instituto de Ensino e Pesquisa.
+
+Volunteer at the University of São Paulo's Computational Systems Biology Lab. Working on scRNAseq automatic cell annotation. Advised by Helder Nakaya, PhD.
+
+Volunteer at the University of Cincinnati College of Medicine's THINK Lab. Working on a database builder tool to extract transcriptomics data from lots of different sources into a single base. Advised by Rodrigo Deliberato, PhD and Lucas Bulgareli.
 
 
 <!--
