@@ -2,7 +2,7 @@ Computer Engineering undergraduate student at Insper - Instituto de Ensino e Pes
 
 Volunteer Researcher at the University of São Paulo's Computational Systems Biology Lab. Working on word embeddings applied to scRNAseq data. Advised by Helder Nakaya, PhD.
 
-Research Intern at the University of Cincinnati College of Medicine's THINK Lab. Working on a database builder tool to extract transcriptomics data from lots of different sources into a single base. Advised by Rodrigo Deliberato, PhD and Lucas Bulgareli.
+Research Intern at the University of Cincinnati College of Medicine's THINK Lab. Working on a database builder tool to extract transcriptomics data from lots of different sources into a single base. Advised by Rodrigo Deliberato, PhD and Lucas Bulgarelli.
 
 
 <!--
