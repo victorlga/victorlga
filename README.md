@@ -1,7 +1,12 @@
-Computer Engineering undergraduate student at Insper - Instituto de Ensino e Pesquisa.
+<p align="center">
+  Computer Engineering undergraduate student at Insper - Instituto de Ensino e Pesquisa.<br><br>
+  Research Intern at the University of Cincinnati College of Medicine's THINK Lab. Working on a database builder tool to extract transcriptomics data from lots of different sources into a single base. Advised by Lucas Bulgarelli.
+</p>
 
-Research Intern at the University of Cincinnati College of Medicine's THINK Lab. Working on a database builder tool to extract transcriptomics data from lots of different sources into a single base. Advised by Rodrigo Deliberato, PhD and Lucas Bulgarelli.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlga&theme=blue-green" />
+</p>
 
 <!--
 ![](cool_gene_wallpaper.png)
