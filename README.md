@@ -11,7 +11,7 @@ I'm a part-time remote Research Intern at the University of Cincinnati College o
 
 **Areas of Interest:** I'm particularly drawn to high-performance computing, machine learning, and bioinformatics.
 
-**Current Studies:** I am focused on learning deep learning architectures for biological contexts and starting to learn GPU parallelization with CUDA.
+**Current Studies:** I am focused on learning deep learning architectures for biological contexts and starting to learn CUDA.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C/C++](https://img.shields.io/badge/C%2FC++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
