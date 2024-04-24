@@ -9,9 +9,9 @@ I'm a part-time remote Research Intern at the University of Cincinnati College o
 ### Technical Skills
 **Programming Languages:** I have a solid foundation in Python and C/C++, which I continuously strive to improve and expand upon.
 
-**Areas of Interest:** I'm particularly drawn to high-performance computing, machine learning, and bioinformatics.
+**Areas of Interest:** I'm particularly drawn to high-performance computing, parallel computing, and bioinformatics.
 
-**Current Studies:** I am focused on learning deep learning architectures for biological contexts and starting to learn CUDA.
+**Current Studies:** I am focused on learning OpenMP, MPI, and CUDA libraries.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C/C++](https://img.shields.io/badge/C%2FC++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
