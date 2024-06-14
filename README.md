@@ -1,15 +1,13 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Victor Assis</h1>
 
-I'm pursuing a Computer Engineering undergraduate degree at [Insper - Instituto de Ensino e Pesquisa](https://www.insper.edu.br/). I have a deep curiosity about the intersection of computing and biology and am excited about the potential of technology to address complex problems in these fields.
+I'm pursuing a Computer Engineering undergraduate degree at [Insper - Instituto de Ensino e Pesquisa](https://www.insper.edu.br/). My main areas of interest span computer architecture, high-performance computing, and embedded software engineering. 
 
 ### Current Role
-I'm a part-time remote Research Intern at the University of Cincinnati College of Medicine's THINK Lab. I'm developing bioinformatics tools under the guidance of Lucas Bulgarelli and Rodrigo Deliberato, MD, PhD.
+I'm a Summer Research Intern at the University of Illinois at Urbana-Champaing, under the supervision of Prof. Mohammed El-Kebir, PhD. My research focuses on the implementation of algorithms for tumor phylogeny inference using C++.
 
 ### Technical Skills
 **Programming Languages:** I have a solid foundation in Python and C/C++, which I continuously strive to improve and expand upon.
-
-**Areas of Interest:** I'm particularly drawn to high-performance computing, parallel computing, and bioinformatics.
 
 **Current Studies:** I am focused on learning OpenMP, MPI, and CUDA libraries.
 
