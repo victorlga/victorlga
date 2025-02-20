@@ -1,38 +1,42 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Victor Assis</h1>
 
-I'm currently pursuing a Computer Engineering undergraduate degree at [Insper - Instituto de Ensino e Pesquisa](https://www.insper.edu.br/). My primary areas of interest include computer architecture, high-performance computing, and data engineering.
+# 🎯 Hi 👋, I'm **Victor Assis**
 
-### Current Roles
+💻 **Computer Engineering Undergraduate** at [Insper - Instituto de Ensino e Pesquisa](https://www.insper.edu.br/)  
+🔍 Interested in **Distributed Systems, Programming Languages, and Data Engineering**
 
-**Actively seeking Data or Software Engineering internship or junior positions starting in January 2025.**
+---
 
-**July 2024 - December 2024**: Working on a university capstone project in partnership with CTI Renato Archer. Focused on RISC-V IP development for 🇧🇷 aerospace applications.
+## 🚀 **Current Role**  
+📅 **Feb 2025 - Present**  
+🔹 **Data Engineering Intern** at [BCG X](https://www.bcg.com/x/)  
 
-### Previous Roles
-**June 2024 - July 2024**: Summer Research Intern at the University of Illinois at Urbana-Champaign, under the supervision of Prof. Mohammed El-Kebir, PhD. My research centered on implementing algorithms for tumor phylogeny inference using C++.
+---
 
-**August 2022 - May 2023**: Data Intern at ADDI, a Colombian Buy Now Pay Later provider. I was primarily responsible for product and revenue analytics for operations in Brazil and Colombia.
+## 🏆 **Previous Experience**
 
-**July 2021 - June 2022**: Founder of Cowala Software, a software studio where my college friends and I developed code, sold software, and enjoyed the process. I was mainly responsible for sales, customer service, and hiring engineers.
+| **Role** | **Organization** | **Duration** | **Focus Area** |
+|----------|----------------|--------------|----------------|
+| 🎓 **Capstone Project** | CTI Renato Archer | **Jul 2024 - Dec 2024** | RISC-V IP for 🇧🇷 aerospace applications |
+| 🔬 **Summer Research Intern** | UIUC | **Jun 2024 - Jul 2024** | Tumor phylogeny algorithms in C++ |
+| 📊 **Data Intern** | ADDI | **Sep 2022 - May 2023** | Product & revenue analytics (BR & CO) |
+| 🚀 **Founder** | Cowala Software | **Jul 2021 - Jun 2022** | Sales, hiring, and software development |
 
-### Technical Skills
-**Programming Languages:** I have a strong foundation in Python and C/C++, which I continuously strive to improve and expand upon.
+---
 
-**Current Studies:** Data Engineering and Leet Code
+## 🛠 **Technical Skills**
+💡 **Languages:** Python 🐍 | C/C++ ⚡ | Learning OCaml 🧠 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C/C++](https://img.shields.io/badge/C%2FC++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+📊 **Data Engineering:** ETL, SQL, Cloud Platforms  
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+🔍 **Algorithms & Data Structures:** LeetCode grinding 📈  
 
-![VHDL](https://img.shields.io/badge/VHDL-%23EAECEE.svg?style=for-the-badge&logo=vhdl&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📖 **Current Studies**
+📘 **Data Engineering:** *Reading* [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)  
+🧑‍💻 **Functional Programming:** *Exploring* OCaml & FP principles  
+🔢 **LeetCode:** *Practicing* problem-solving & algorithmic thinking 
+
 </div>
