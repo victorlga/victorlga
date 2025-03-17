@@ -25,7 +25,7 @@
 ---
 
 ## 🛠 **Technical Skills**
-💡 **Languages:** Python 🐍 | C/C++ ⚡ | Learning OCaml 🧠 
+💡 **Languages:** Python 🐍 | C/C++ ⚡ | Learning OCaml 🐫 
 
 📊 **Data Engineering:** ETL, SQL, Cloud Platforms  
 
