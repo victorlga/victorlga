@@ -3,7 +3,7 @@
 # 🎯 Hi 👋, I'm **Victor Assis**
 
 💻 **Computer Engineering Undergraduate** at [Insper - Instituto de Ensino e Pesquisa](https://www.insper.edu.br/)  
-🔍 Interested in **Distributed Systems, Programming Languages, and Data Engineering**
+🔍 Interested in **Distributed Systems and Programming Languages**
 
 ---
 
