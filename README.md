@@ -9,7 +9,7 @@
 
 ## 🚀 **Current Role**  
 📅 **Feb 2025 - Present**  
-🔹 **Data Engineering Intern** at [BCG X](https://www.bcg.com/x/)  
+🔹 **Software Engineering Intern** at [BCG X](https://www.bcg.com/x/)  
 
 ---
 
