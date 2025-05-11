@@ -20,7 +20,6 @@
 | 🎓 **Capstone Project** | CTI Renato Archer | **Jul 2024 - Dec 2024** | RISC-V IP for 🇧🇷 aerospace applications |
 | 🔬 **Summer Research Intern** | UIUC | **Jun 2024 - Jul 2024** | Tumor phylogeny algorithms in C++ |
 | 📊 **Data Intern** | ADDI | **Sep 2022 - May 2023** | Product & revenue analytics (BR & CO) |
-| 🚀 **Founder** | Cowala Software | **Jul 2021 - Jun 2022** | Sales, hiring, and software development |
 
 ---
 
@@ -35,8 +34,8 @@
 ---
 
 ## 📖 **Current Studies**
-📘 **Data Engineering:** *Reading* [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)  
-🧑‍💻 **Functional Programming:** *Exploring* OCaml & FP principles  
+📘 **Software Best Practices:** *Reading* A Phylosophy of Software Design, by John Ousterhout  
+🧑‍💻 **Functional Programming:** *Exploring* OCaml, Haskell & FP principles  
 🔢 **LeetCode:** *Practicing* problem-solving & algorithmic thinking 
 
 </div>
