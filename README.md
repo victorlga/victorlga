@@ -1,20 +1,26 @@
 <div align="center">
 
-# 🎯 Hi 👋, I'm **Victor Assis**
+# Hi 👋, I'm **Victor Assis**
 
-💻 **Computer Engineering Undergraduate** at [Insper - Instituto de Ensino e Pesquisa](https://www.insper.edu.br/)  
-🔍 Interested in **Distributed Systems and Type-safe Programming Languages**
+**Computer Engineering Undergraduate** at [Insper - Instituto de Ensino e Pesquisa](https://www.insper.edu.br/)  
+Interested in **Distributed Systems and Programming Languages**
 
 ---
 
-## 🚀 **Current Role**  
+## **Hobbies & Fun**  
+
+Enjoying to learn OCaml, Clojure and functional programming in general.
+
+---
+
+## **Current Role**  
 📅 **Feb 2025 - Present**  
 🔹 **Software Engineering Intern** at [BCG X](https://www.bcg.com/x/)  
 🔹 **Skills:** Python, Django, FastAPI, Airflow, dbt, PySpark, SQL, Prompt Engineering
 
 ---
 
-## 🏆 **Previous Experience**
+## **Previous Experience**
 
 | **Role** | **Organization** | **Duration** | **Focus Area** | **Skills** |
 |----------|----------------|--------------|----------------|----------------|
