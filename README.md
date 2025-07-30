@@ -10,7 +10,7 @@
 ## 🚀 **Current Role**  
 📅 **Feb 2025 - Present**  
 🔹 **Software Engineering Intern** at [BCG X](https://www.bcg.com/x/)  
-🔹 **Skills:** Python, Django, dbt, PySpark, SQL, Prompt Engineering
+🔹 **Skills:** Python, Django, FastAPI, Airflow, dbt, PySpark, SQL, Prompt Engineering
 
 ---
 
