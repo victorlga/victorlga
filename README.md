@@ -9,7 +9,7 @@ Interested in **Distributed Systems and Programming Languages**
 
 ## **Hobbies & Fun**  
 
-Enjoying to learn OCaml, Clojure and functional programming in general.
+Enjoying to learn Rust, OCaml, and functional programming in general.
 
 ---
 
